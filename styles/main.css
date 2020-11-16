@@ -7400,9 +7400,17 @@ a.credit {
   margin-bottom: 0 !important;
 }
 #personal-skills .panel-image img {
-  max-height: 400px;
+  min-height: 400px;
   width: 100%;
 }
 .experience-image img{
   width: 100px;
+}
+.story-icon {
+  text-align:  left;
+  margin-right: 20px;
+  width: 50px;
+}
+#about .media {
+  margin-bottom: 20px;
 }
